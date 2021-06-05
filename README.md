@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 # my blog:
-	# https://www.digitaltechdhruv.tk/
+	 https://www.digitaltechdhruv.tk/
